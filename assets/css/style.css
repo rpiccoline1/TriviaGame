@@ -2,3 +2,14 @@ body {
   background-image: url("world1.jpg");
   background-size: 1150px;
 }
+
+h1 {
+  font-weight: bold;
+  font-size: 100px;
+}
+
+#timer {
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
